@@ -1,0 +1,6 @@
+{
+  "name": "Scam Shield AI",
+  "description": "An AI-powered cybersecurity and fraud prevention platform designed to protect users from digital scams, phishing attacks, fake websites, fraudulent numbers, and identity theft.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
